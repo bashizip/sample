@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Formation JavaEE")
+        System.out.println("Formation JavaEE");
       
         System.out.println("20 Participants");
        
